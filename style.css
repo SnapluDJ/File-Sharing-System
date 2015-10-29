@@ -1,0 +1,64 @@
+body{
+	font-style: italic;
+	background-image: url("homepage.jpg");
+}
+
+h1{
+	text-align: center;
+	font-style: italic;
+	font-size: 42pt;
+}
+
+#homepage{
+	margin-left: 100px;
+}
+
+#logout{
+	position: absolute;
+	top: 0px;
+	left: 20px;
+}
+
+#friendlist{
+	position: absolute;
+	left: 150px;
+	font-size: 29pt;
+}
+
+#friendlist_a{
+	position: absolute;
+	left: 10px;
+	font-size: 14pt;
+}
+
+#login, #register{
+	text-align: center;
+}
+
+#loginoutlook, #registeroutlook{
+	text-align: center;
+}
+
+#outlook1, #outlook2{
+	text-align: center;
+	font-size: 18pt;
+}
+
+.invalid{
+	text-align: center;
+}
+
+a:link {
+  color: #445; 
+}
+a:visited {
+  color: #345;
+}
+a:hover {
+  color: #667;
+}
+a:active {
+  color: #778;
+}
+
+
